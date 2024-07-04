@@ -8,7 +8,7 @@ import re
 # Read the data from the PostgreSQL database
 db_name = 'CoronaData'
 db_user = 'postgres'
-db_password = 'nexusbot'
+db_password = 'db_password'
 db_host = 'localhost'
 db_port = '5432'
 table_name = 'corona_tweets'
